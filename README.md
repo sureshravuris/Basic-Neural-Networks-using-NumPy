@@ -3,7 +3,7 @@
 This project encompasses the development of a three-layer neural network designed to tackle non-linear regression problems. The implementations span across different frameworks and methodologies, from manual computations using Numpy to advanced model definitions with TensorFlow and JAX. This README outlines the structure of the project, including brief descriptions of each model and instructions for replication.
 
 
-## Video Link:[Click Here](https://youtu.be/iQYjSWzYlPs)
+> ## Video Link: [Click Here](https://youtu.be/iQYjSWzYlPs)
 ## Project Structure
 
 The project is divided into eight distinct implementations, each utilizing a different approach or framework to achieve the goal of non-linear regression. Below is an overview of these implementations:
